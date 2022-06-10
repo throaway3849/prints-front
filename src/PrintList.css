@@ -1,0 +1,15 @@
+.PrintList {
+    list-style-type: none;
+}
+
+.PrintList-item {
+    margin: 10px auto;
+    max-width: 80vw;
+}
+
+.PrintList-loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 98vh;
+}
